@@ -12,3 +12,5 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
+
+INSERT INTO tb_course(name, img_uri, img_gray_uri) VALUES ('Bootcamp HTML', 'https://937216.smushcdn.com/2561330/wp-content/uploads/2021/11/online759.jpg?lossy=1&strip=1&webp=1', 'https://img.myloview.com.br/posters/distance-learning-black-line-icon-online-training-courses-home-leisure-isolated-on-white-background-vector-elements-for-graphic-design-website-or-banner-700-208517440.jpg');
