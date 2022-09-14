@@ -25,3 +25,5 @@ INSERT INTO tb_resource (title, description, position, img_uri, type, offer_id) 
 INSERT INTO tb_section (title, description, position, img_uri, resource_id, pre_requisite_id) VALUES ('Capítulo 1', 'Neste capítulo iremos começar', 1, 'https://937216.smushcdn.com/2561330/wp-content/uploads/2021/11/online759.jpg?lossy=1&strip=1&webp=1', 1, null);
 INSERT INTO tb_section (title, description, position, img_uri, resource_id, pre_requisite_id) VALUES ('Capítulo 2', 'Neste capítulo iremos continuar', 2, 'https://937216.smushcdn.com/2561330/wp-content/uploads/2021/11/online759.jpg?lossy=1&strip=1&webp=1', 1, 1);
 INSERT INTO tb_section (title, description, position, img_uri, resource_id, pre_requisite_id) VALUES ('Capítulo 3', 'Neste capítulo iremos finalizar', 3, 'https://937216.smushcdn.com/2561330/wp-content/uploads/2021/11/online759.jpg?lossy=1&strip=1&webp=1', 1, 2);
+
+--(AVALIABLE, ENROLL_MOMENT, ONLY_UPDATE, REFUND_MOMENT, OFFER_ID, USER_ID) 
